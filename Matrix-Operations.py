@@ -1,4 +1,4 @@
-#matrix program.py
+#Matrix-Operations.py
 #Sebrianne Ferguson
 #Last edited September 1st, 2018
 #Written in IDLE
